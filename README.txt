@@ -1,2 +1,4 @@
 # LearnGit
-Este sería un Readne del proyecto
+Este sería un Readme del proyecto
+
+That´s all!
